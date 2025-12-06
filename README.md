@@ -205,26 +205,25 @@ Gestion efficace d'ensembles partitionnés avec opérations d'union et de recher
 
 ### Algorithmes à connaître absolument
 
-**Algorithmes sur graphes :**
-- BFS, DFS (parcours, détection de cycles)
-- Dijkstra (chemin le plus court, une source)
-- Kruskal, Prim (arbre couvrant minimal)
-- Tri topologique (ordonnancement DAG)
+**Algorithmes sur graphes :** ([Module 8](8_Graphes/README.md))
+- [BFS, DFS](8_Graphes/8.2_Parcours_Connexite.md) (parcours, détection de cycles)
+- [Dijkstra](8_Graphes/8.3_Algorithmes_Chemin_Ordre.md) (chemin le plus court, une source)
+- [Kruskal, Prim](8_Graphes/8.4_Arbres_Sous_Tendant_Minimum.md) (arbre couvrant minimal)
+- [Tri topologique](8_Graphes/8.3_Algorithmes_Chemin_Ordre.md) (ordonnancement DAG)
 
-**Programmation dynamique :**
-- Plus longue sous-séquence commune (PLSC)
-- Chaînage optimal de matrices
-- Problème du sac à dos 0/1
+**Programmation dynamique :** ([Module 9](9_Recherche_Patron_PD/README.md))
+- [Plus longue sous-séquence commune (PLSC)](9_Recherche_Patron_PD/9.2_Programmation_Dynamique.md)
+- [Chaînage optimal de matrices](9_Recherche_Patron_PD/9.2_Programmation_Dynamique.md)
+- [Problème du sac à dos 0/1](9_Recherche_Patron_PD/9.2_Programmation_Dynamique.md)
 
-**Appariement de chaînes :**
-- Recherche naïve
-- KMP (Knuth-Morris-Pratt)
-- Rabin-Karp (hachage roulant)
-- Automate d'états finis (AEF)
+**Appariement de chaînes :** ([Module 9](9_Recherche_Patron_PD/README.md))
+- [Recherche naïve](9_Recherche_Patron_PD/9.1_Recherche_Patron.md)
+- [Rabin-Karp (hachage roulant)](9_Recherche_Patron_PD/9.1_Recherche_Patron.md)
+- [Automate d'états finis (AEF)](9_Recherche_Patron_PD/9.1_Recherche_Patron.md)
 
 **Opérations sur structures de données :**
-- Union-Find avec compression de chemin et union par rang
-- Insertion et extraction dans les tas
-- Rotations dans les arbres AVL
+- [Union-Find avec compression de chemin et union par rang](10_Ensembles_Disjoints/README.md) (Module 10)
+- [Insertion et extraction dans les tas](7_Monceaux/README.md) (Module 7)
+- [Rotations dans les arbres AVL](6_Arbres_Equilibres/README.md) (Module 6)
 
 ---
